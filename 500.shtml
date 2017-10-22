@@ -1,0 +1,11 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<HTML><HEAD>
+<TITLE>500 Internal Server Error</TITLE>
+</HEAD><BODY>
+<H1>500 Internal Server Error</H1>
+Mã lệnh (code) bị lỗi hoặc không đủ thời gian để hoàn thành yêu cầu của bạn.
+<br/><br/>
+Vui lòng liên hệ đến nhà quản trị website hoặc nhà cung cấp dịch vụ <a href="http://hoangtin.net.vn">Công ty TNHH MTV Hoàng Tín</a> để được giúp đỡ.
+<HR>
+<I><!--#echo var="HTTP_HOST" --></I>
+</BODY></HTML>

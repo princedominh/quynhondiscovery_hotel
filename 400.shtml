@@ -1,0 +1,12 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<HTML><HEAD>
+<meta charset="utf-8"/>
+<TITLE>400 Bad Request</TITLE>
+</HEAD><BODY>
+<H1>400 Bad Request</H1>
+Yêu cầu của bạn không thực hiện được do có lỗi xảy ra. Vui lòng kiểm tra lại.
+<br/><br/>
+Vui lòng liên hệ đến nhà quản trị website hoặc nhà cung cấp dịch vụ <a href="http://hoangtin.net.vn">Công ty TNHH MTV Hoàng Tín</a> để được giúp đỡ.
+<HR>
+<I><!--#echo var="HTTP_HOST" --></I>
+</BODY></HTML>

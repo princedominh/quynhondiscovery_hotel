@@ -1,0 +1,16 @@
+Change application/config/config.php
+    base_url: discoverytour.local
+
+
+
+
+CRUD in admin:
+- extend BaseCRUDController in libraries
+- view:
+  admin\CRUD_R.php: Listing
+  admin\CRUD_C.php: Create
+  admin\CRUD_U.php: Listing
+  //delete call by ajax (see in CRUD_R)
+
+- functions: in helpers\qnd_crud_helper.php
+

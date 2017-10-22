@@ -1,0 +1,12 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<HTML><HEAD>
+<meta charset="utf-8"/>
+<TITLE>401 Authorization Required</TITLE>
+</HEAD><BODY>
+<H1>401 Authorization Required</H1>
+Máy chủ không thể xác minh rằng bạn có quyền truy cập vào các tài liệu theo yêu cầu. Hoặc có thể là bạn đã cung cấp các thông tin không đúng (ví dụ: sai mật khẩu), hoặc có thể do trình duyệt của bạn không hiểu cách cung cấp các thông tin cần thiết.
+<br/><br/>
+Vui lòng liên hệ đến nhà quản trị website hoặc nhà cung cấp dịch vụ <a href="http://hoangtin.net.vn">Công ty TNHH MTV Hoàng Tín</a> để được giúp đỡ.
+<HR>
+<I><!--#echo var="HTTP_HOST" --></I>
+</BODY></HTML>
